@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255336064420",
+    "project_id": "social-media-app-4b2fd",
+    "storage_bucket": "social-media-app-4b2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255336064420:android:a5059ceb92a630cdf24d31",
+        "android_client_info": {
+          "package_name": "com.harshit.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255336064420-c1hoku9bs7l2r7eqtc6gqbm2tqp1aa8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDD6GVag8x6VZ3CGXkUWT5fme6qmDTYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255336064420-c1hoku9bs7l2r7eqtc6gqbm2tqp1aa8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
